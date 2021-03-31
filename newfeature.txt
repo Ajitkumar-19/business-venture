@@ -8,4 +8,5 @@ here we are talking about diff concept.....
 --- product development process launched
 --- hiring and forming the gr, administrative and purchase dept.
 --- admin dept purchases office stationaries, purchase dept purchases office equipments.
+--- we have developed an mvpfor demo
 
