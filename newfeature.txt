@@ -3,5 +3,8 @@ here we are talking about diff concept.....
 
 
 --- Formation of a public limited company (01-Jun)
---- Core team formed including CEO,VPs, CTO (16-Jul) 
+--- Core team formed including CEO,VPs, CTO (16-Jul)
+--- Hiring and forming the development team
+--- product development process launched
+--- hiring and forming the gr, administrative and purchase dept.
 
